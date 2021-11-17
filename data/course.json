@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1d6e1725-27ea-224e-988e-8add2f1814bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Globalization",
+  "course_description": "This seminar explores changes in the international economy and their effects on domestic politics, economy, and society. Is globalization really a new phenomenon? Is it irreversible? What are effects on wages and inequality, on social safety nets, on production, and innovation? How does it affect relations between developed countries and developing countries? How globalization affects democracy? These are some of the key issues that will be examined.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.195",
+  "primary_course_number": "17.196",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
